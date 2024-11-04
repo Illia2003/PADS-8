@@ -1,0 +1,8 @@
+C:\Users\Asus\OneDrive\Рабочий стол\Work\Безпека\Lab_8\Lab_8\bin\Debug\Lab_8.exe.config
+C:\Users\Asus\OneDrive\Рабочий стол\Work\Безпека\Lab_8\Lab_8\bin\Debug\Lab_8.exe
+C:\Users\Asus\OneDrive\Рабочий стол\Work\Безпека\Lab_8\Lab_8\bin\Debug\Lab_8.pdb
+C:\Users\Asus\OneDrive\Рабочий стол\Work\Безпека\Lab_8\Lab_8\obj\Debug\Lab_8.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Рабочий стол\Work\Безпека\Lab_8\Lab_8\obj\Debug\Lab_8.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\OneDrive\Рабочий стол\Work\Безпека\Lab_8\Lab_8\obj\Debug\Lab_8.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Рабочий стол\Work\Безпека\Lab_8\Lab_8\obj\Debug\Lab_8.exe
+C:\Users\Asus\OneDrive\Рабочий стол\Work\Безпека\Lab_8\Lab_8\obj\Debug\Lab_8.pdb
